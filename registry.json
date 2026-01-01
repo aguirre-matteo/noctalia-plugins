@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "mpvpaper",
+      "name": "Mpvpaper",
+      "version": "1.0.0",
+      "description": "A plugin for interacting with Mpvpaper",
+      "author": "Aguirre Matteo"
+    }
+  ]
+}
